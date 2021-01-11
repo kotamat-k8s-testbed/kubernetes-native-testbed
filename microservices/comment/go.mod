@@ -1,4 +1,4 @@
-module github.com/__TB_GITHUB_ORG_NAME__/kubernetes-native-testbed/microservices/comment
+module github.com/kotamat-k8s-testbed/kubernetes-native-testbed/microservices/comment
 
 go 1.13
 

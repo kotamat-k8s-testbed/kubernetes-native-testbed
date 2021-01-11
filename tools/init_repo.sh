@@ -45,5 +45,5 @@ perl -pi -e "s|__TB_GITHUB_ORG_NAME__|${TB_GITHUB_ORG_NAME}|g" ${CURRENT_DIR}/..
 
 git add --all
 git commit -m "initialized repo"
-git push origin develop
+#git push origin develop
 

@@ -5,8 +5,8 @@ import (
 	"io"
 
 	"github.com/golang/protobuf/ptypes/empty"
-	"github.com/__TB_GITHUB_ORG_NAME__/kubernetes-native-testbed/microservices/product"
-	pb "github.com/__TB_GITHUB_ORG_NAME__/kubernetes-native-testbed/microservices/product/protobuf"
+	"github.com/kotamat-k8s-testbed/kubernetes-native-testbed/microservices/product"
+	pb "github.com/kotamat-k8s-testbed/kubernetes-native-testbed/microservices/product/protobuf"
 )
 
 type imageAPIServer struct {
